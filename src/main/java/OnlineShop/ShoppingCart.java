@@ -1,4 +1,4 @@
-package rvt.OnlineShop;
+package OnlineShop;
 
 import java.util.HashMap;
 import java.util.Map;

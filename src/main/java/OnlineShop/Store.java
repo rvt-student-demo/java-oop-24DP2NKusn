@@ -1,4 +1,4 @@
-package rvt.OnlineShop;
+package OnlineShop;
 import java.util.Scanner;
 
 public class Store {

@@ -1,4 +1,4 @@
-package rvt.OnlineShop;
+package OnlineShop;
 
 
 public class Item {
