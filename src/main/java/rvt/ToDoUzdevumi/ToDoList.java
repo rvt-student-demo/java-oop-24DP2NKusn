@@ -1,4 +1,4 @@
-package rvt;
+package rvt.ToDoUzdevumi;
 
 import java.util.*;
 
